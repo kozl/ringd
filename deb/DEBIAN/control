@@ -1,0 +1,8 @@
+Package: ringd
+Version: 1.0b
+Provides: ringd
+Maintainer: Alexander V Kozlov <a.kozlov.box@yandex.ru>
+Section: misc
+Architecture: all
+Description: daemon for capturing photos on ringing and sending it to twitter.
+Depends: python, python-daemon, python-lockfile, python-imaging

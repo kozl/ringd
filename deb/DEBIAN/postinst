@@ -1,0 +1,3 @@
+#!/bin/sh
+update-rc.d ringd defaults 2>/dev/null
+exit 0
